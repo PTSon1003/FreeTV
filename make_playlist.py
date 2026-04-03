@@ -88,6 +88,7 @@ COUNTRY_CODES = {
     "usa": "US",
     "usa_vod": "US",
     "venezuela": "VE",
+    "vietnam": "VN",
 }
 
 
