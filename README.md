@@ -93,7 +93,7 @@ Or free on the Internet:
 - Samsung TV Plus
 - Youtube live channels
 
-To use it point your IPTV player to https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8.
+To use it point your IPTV player to https://raw.githubusercontent.com/PTSon1003/FreeTV/master/playlist.m3u8.
 
 Philosophy
 ==========
